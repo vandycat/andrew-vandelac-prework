@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    line-height: 1.5;
+    text-transform: uppercase;
+    background-color: rgba(100, 184, 190, 0.856);
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+. center {
+    margin: auto;
+}
+
+h1,
+h6 {
+    color: white;
+}
+
+#midpage {
+    text-align: center;
+    font-size: 16px;
+    margin: auto;
+    font-weight: 500;
+}
+
+#midheader {
+    font-size: 100px;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 15px;
+}
+
+#midbox {
+    color: white;
+    align-self: center;
+    width: 150px;
+    text-align: center;
+    border: 2px solid white;
+    padding: 5px 0px;
+    margin: auto;
+    font-size: 14px;
+    font-weight: 600;
+}
